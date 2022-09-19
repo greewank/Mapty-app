@@ -1,0 +1,14 @@
+{
+  "name": "mapty",
+  "version": "1.0.0",
+  "description": "map marking application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Greewan K.C",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
